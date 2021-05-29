@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NaveenGKumar1996
+- 👀 I’m interested in Test Automation
+- 🌱 I’m currently learning Devops too
