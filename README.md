@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Naveen
-- 👀 I’m interested in Automating Software to reduce manual efforts
-- 🌱 I’m currently learning Devops too
+- 👀 I’m interested in Automating redundant tasks to reduce manual efforts
+- 🌱 I’m currently learning Devops
