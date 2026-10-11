@@ -1,36 +1,38 @@
 # Hey, I'm Naveen 👋
 
-### Senior SDET
+### Senior SDET 
 
-I'm Naveen, a Senior SDET with **8+ years of experience** in software testing, test automation, and quality engineering. I enjoy building scalable automation frameworks, automating complex end-to-end workflows, and exploring how AI can transform software testing.
+I'm Naveen, a Senior SDET with **8+ years of experience** in software testing, automation, and quality engineering. I specialize in building scalable automation frameworks, validating application performance, and leveraging AI to make testing smarter and more efficient.
 
 ### 🚀 What I Do
 - 🧪 Build scalable UI, API, and end-to-end automation frameworks.
-- 🤖 Explore AI-driven testing and agentic AI automation.
-- ☕ Develop automation solutions using Java and JavaScript/TypeScript.
-- 🔄 Integrate automated tests into CI/CD pipelines.
-- 📊 Improve test reliability, coverage, and release confidence.
+- ⚡ Perform performance, load, and stress testing using Apache JMeter.
+- 🤖 Develop AI-driven testing solutions for agentic AI, chatbots, and voicebots.
+- ☕ Build automation frameworks using Java and JavaScript/TypeScript.
+- 🔄 Integrate automated testing into CI/CD pipelines.
+- 📊 Improve test coverage, reliability, performance, and release confidence.
 
 ### 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, TypeScript  
 **UI Automation:** Selenium, Playwright  
-**API Testing:** REST API, REST Assured  
+**API Testing:** REST Assured, REST APIs  
+**Performance Testing:** Apache JMeter, Load Testing, Stress Testing  
 **CI/CD & DevOps:** GitHub Actions, Docker, Kubernetes  
 **Reporting & Monitoring:** Allure, Datadog  
-**AI & Automation:** LLM-based evaluation, AI agent testing, voicebot and chatbot E2E testing
+**AI & Automation:** LLM-based evaluation, Agentic AI testing, Voicebot and Chatbot E2E testing
 
 ### 🧠 Current Interests
-- AI-powered software testing
-- Agentic AI and conversational AI testing
-- Modern automation architecture
-- Reliable, scalable CI/CD pipelines
-- Improving quality through intelligent automation
+- AI-powered software testing and agentic AI
+- Performance engineering and scalability
+- Modern test automation architecture
+- Reliable CI/CD pipelines
+- Intelligent automation and quality engineering
 
 ### 💡 My Philosophy
 
-> Automate the repetitive. Challenge the complex. Use AI to make testing smarter.
+> Automate the repetitive. Test for scale. Use AI to make quality smarter.
 
 ### 🤝 Let's Connect
 
-Always interested in discussing test automation, SDET practices, AI in quality engineering, and developer productivity.
+Always interested in discussing test automation, performance engineering, AI in quality engineering, and developer productivity.
